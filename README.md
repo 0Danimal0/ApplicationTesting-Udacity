@@ -1,9 +1,9 @@
 
-21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
-
 Feed Reader testing tool using Jasmine.
 
 -- Instructions --
+
+To run this app, open the 'index.html' file in a browser window.
 
 This application is a full page RSS feed with a hidden menu of other RSS feeds.
 
